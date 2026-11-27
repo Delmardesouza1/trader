@@ -1,0 +1,51 @@
+# .github/workflows/notify-telegram.yml
+
+name: Notify Telegram
+
+on:
+  push:
+    branches:
+      - master  # Notifica commits ou pushes na branch "master"
+  pull_request:
+    types: [opened, closed]
+
+jobs:
+  notify-telegram:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Enviar notificação para o Telegram
+        # Dados do evento (título de PR, mensagem de commit) são controlados por
+        # terceiros: passam por env e nunca são interpolados no script.
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EVENT_NAME: ${{ github.event_name }}
+          REPO: ${{ github.repository }}
+          ACTOR: ${{ github.actor }}
+          PR_ACTION: ${{ github.event.action }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+        run: |
+          escape_markdown() {
+            printf '%s' "$1" | sed 's/[][\.*^$(){}?+|&_`]/\\&/g'
+          }
+
+          if [ "$EVENT_NAME" = "push" ]; then
+            COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+            CLEAN_MESSAGE=$(printf '%s' "$COMMIT_MESSAGE" | sed 's/:[a-z_]*://g')
+            MESSAGE=$(printf '📦 *New Push on Repository*\n\n🔧 Repository: %s\n👤 Actor: %s\n📝 Message Commit:\n%s' \
+              "$REPO" "$ACTOR" "$(escape_markdown "$CLEAN_MESSAGE")")
+          else
+            MESSAGE=$(printf '📌 *Pull Request %s:*\n\n🔧 Repository: %s\n👤 Actor: %s\n📝 Title: %s\n🔗 [View PR](%s)' \
+              "$PR_ACTION" "$REPO" "$ACTOR" "$(escape_markdown "$PR_TITLE")" "$PR_URL")
+          fi
+
+          # jq monta o JSON com escape correto (sem concatenar strings no payload).
+          jq -n --arg chat "$TELEGRAM_CHAT_ID" --arg text "$MESSAGE" \
+            '{chat_id: $chat, text: $text, parse_mode: "Markdown"}' \
+          | curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" --data-binary @-

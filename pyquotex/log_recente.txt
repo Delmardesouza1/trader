@@ -1,0 +1,146 @@
+﻿2026-11-22 09:03:40 [INFO] Bot iniciado | Saldo Base do Dia: R$ 50000.00 | Saldo Atual: R$ 50000.00
+2026-11-22 10:07:32 [INFO] Bot iniciado | Saldo base do dia: R$ 50000.00 | Saldo atual: R$ 50000.00
+2026-11-22 10:07:32 [INFO] Vela iniciada hÃ¡ muito tempo. Sinal desta vela ignorado.
+2026-11-22 10:08:08 [WARNING] SÃ©rie de velas nÃ£o alinhada apÃ³s as tentativas. Sem entrada nesta vela.
+2026-11-22 10:09:08 [WARNING] SÃ©rie de velas nÃ£o alinhada apÃ³s as tentativas. Sem entrada nesta vela.
+2026-11-22 10:10:08 [WARNING] SÃ©rie de velas nÃ£o alinhada apÃ³s as tentativas. Sem entrada nesta vela.
+2026-11-22 10:11:08 [WARNING] SÃ©rie de velas nÃ£o alinhada apÃ³s as tentativas. Sem entrada nesta vela.
+2026-11-22 10:12:08 [WARNING] SÃ©rie de velas nÃ£o alinhada apÃ³s as tentativas. Sem entrada nesta vela.
+2026-11-22 10:13:08 [WARNING] SÃ©rie de velas nÃ£o alinhada apÃ³s as tentativas. Sem entrada nesta vela.
+2026-11-22 10:14:07 [WARNING] SÃ©rie de velas nÃ£o alinhada apÃ³s as tentativas. Sem entrada nesta vela.
+2026-11-22 10:14:42 [INFO] ConexÃ£o encerrada.
+2026-11-22 10:15:18 [INFO] Bot iniciado | Saldo base do dia: R$ 50000.00 | Saldo atual: R$ 50000.00
+2026-11-22 10:15:18 [INFO] Ativo AVAUSD_otc | payout 92% | breakeven 52.1% | amostra 0/30 | taxa sem dados
+2026-11-22 10:15:18 [INFO] Ativo AXSUSD_otc | payout 92% | breakeven 52.1% | amostra 0/30 | taxa sem dados
+2026-11-22 10:15:18 [INFO] Ativo DASUSD_otc | payout 92% | breakeven 52.1% | amostra 0/30 | taxa sem dados
+2026-11-22 10:15:18 [INFO] Vela iniciada hÃ¡ muito tempo. Sinal desta vela ignorado.
+2026-11-22 10:16:09 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:16:17 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:16:25 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:17:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:17:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:17:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:18:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:18:15 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:18:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:19:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:19:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:19:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:20:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:20:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:20:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:21:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:21:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:21:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:22:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:22:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:22:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:23:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:23:15 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:23:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:24:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:24:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:24:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:25:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:25:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:25:25 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:26:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:26:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:26:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:27:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:27:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:27:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:28:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:28:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:28:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:29:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:29:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:29:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:30:07 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:30:15 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:30:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:31:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:31:15 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:31:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:32:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:32:16 [WARNING] AXSUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:32:16 [INFO] ConexÃ£o encerrada.
+2026-11-22 10:33:01 [INFO] Bot iniciado | Saldo base do dia: R$ 50000.00 | Saldo atual: R$ 50000.00
+2026-11-22 10:33:01 [INFO] Ativo AVAUSD_otc | payout 92% | breakeven 52.1% | amostra 0/30 | taxa sem dados
+2026-11-22 10:33:01 [INFO] Ativo BNBUSD_otc | payout 92% | breakeven 52.1% | amostra 0/30 | taxa sem dados
+2026-11-22 10:33:01 [INFO] Ativo DASUSD_otc | payout 92% | breakeven 52.1% | amostra 0/30 | taxa sem dados
+2026-11-22 10:33:09 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:33:17 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:33:25 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:34:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:34:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:34:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:35:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:35:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:35:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:36:07 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:36:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:36:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:37:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:37:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:37:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:38:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:38:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:38:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:39:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:39:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:39:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:40:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:40:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:40:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:41:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:41:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:41:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:42:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:42:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:42:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:43:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:43:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:43:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:44:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:44:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:44:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:45:07 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:45:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:45:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:46:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:46:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:46:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:47:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:47:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:47:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:48:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:48:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:48:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:49:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:49:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:49:24 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:50:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:50:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:50:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:51:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:51:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:51:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:52:07 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:52:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:52:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:53:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:53:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:53:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:54:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:54:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:54:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:55:08 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:55:16 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:55:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:56:07 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:56:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:56:23 [WARNING] DASUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:57:07 [WARNING] AVAUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:57:15 [WARNING] BNBUSD_otc: sÃ©rie de velas nÃ£o alinhada. Ativo pulado nesta vela.
+2026-11-22 10:57:16 [INFO] ConexÃ£o encerrada.

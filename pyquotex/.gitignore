@@ -1,0 +1,60 @@
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+experimental_login/
+
+# Distribution / build
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Jekyll
+.jekyll-cache/
+
+# Credentials & sessions (nunca versionar)
+.session.pkl
+session.json
+session.json.corrupt
+settings/
+.env
+.env.*
+!.env.example
+
+# Banco local de auditoria e cobertura de testes
+*.db
+.coverage
+
+# Virtualenv
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+
+# Media / temp
+*.mp4
+.DS_Store
+
+# Package managers
+poetry.lock
+package-lock.json
+node_modules/
+
+# Generated
+.docusaurus
+.cache-loader
+
+# Gitpod
+.gitpod.yml
+
+# Browser data
+browser/

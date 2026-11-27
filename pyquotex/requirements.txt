@@ -1,0 +1,12 @@
+curl_cffi>=0.15.0
+certifi>=2025.1.31
+pyfiglet>=1.0.2,<2.0.0
+beautifulsoup4>=4.13.0,<5.0.0
+fake-useragent==2.2.0
+rich>=13.7.0,<14.0.0
+typing_extensions>=4.7.0
+# Mantido em sincronia com pyproject.toml. Para instalações reproduzíveis, gere um lock: uv lock
+# websockets/httpx removidos: a rede (HTTP e WebSocket) usa só curl_cffi.
+# orjson é opcional (recomendado para performance, mas difícil de instalar no Termux).
+# Instale com: pip install "pyquotex[fast]"
+# orjson>=3.9.0,<4.0.0
